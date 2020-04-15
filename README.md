@@ -1,2 +1,2 @@
 # docker_fastai2
-Scripts used to create a GPU enabled docker container for fastai courseware.
+Example scripts to create a GPU enabled docker container on Ubuntu. The scripts build a container for fastai2 courseware.
