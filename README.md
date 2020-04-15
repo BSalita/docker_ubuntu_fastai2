@@ -1,5 +1,5 @@
 # docker_ubuntu_fastai2
-Example scripts to create a GPU enabled docker container on Ubuntu. The scripts build a container for fastai2 courseware.
+Example scripts to create a GPU enabled docker container on Ubuntu. The scripts build a container for fastai2. fastai refers to both courseware and a machine learning library. The fastai library is pytorch based.
 
 Being new to docker, I'm approaching the problem of creating an Ubuntu docker container for fastai by writing a bunch of shell scripts. The scripts are a work-in-progress.
 
